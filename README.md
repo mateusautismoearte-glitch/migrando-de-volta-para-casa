@@ -17,7 +17,9 @@
         }
         .botao-itchio:hover {
             background-color: #ff3c3c; /* Cor mais escura no hover */
-        }
+        }![capa](https://github.com/user-attachments/assets/55999b32-df9a-4df5-bc67-5df6d8701b08)
+![capa](https://github.com/user-attachments/assets/36e5dbd4-763a-432e-9ce4-3fa4facbe88f)
+
 
         .letraprincipal {font-size: 80px; }
         .plataformas-etc {font-size: 40px;}
